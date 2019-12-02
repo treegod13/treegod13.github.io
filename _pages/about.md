@@ -15,4 +15,4 @@ My current areas of interest include cyber-physical systems, wireless networks, 
 Email: chenmz AT whut.edu.cn
 
 -----
-![word_cloud](http://treegod13.github.io/images/WordArt.png)
+![wordcloud](http://treegod13.github.io/images/wordcloud.png)
