@@ -12,5 +12,6 @@ I am pursuing my Ph.D. in Traffic Information Engineering & Control from Wuhan U
 My PhD work has been focusing on wireless sensing techniques and machine learning algorithms for human localization, navigation and activity recognition in cruise ships.
 My current areas of interest include cyber-physical systems, wireless networks, mobile computing, big data analytics, real-time systems and related areas.
 
+Email: chenmz AT whut.edu.cn
 -----
 ![word_cloud](http://treegod13.github.io/images/WordArt.png)
