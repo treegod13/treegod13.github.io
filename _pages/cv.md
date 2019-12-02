@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * B.S. in Electric Engineering, Hubei University of Technology, 2013
 * M.S. in Traffic Information Engineering & Control, Wuhan University of Technology, 2014
