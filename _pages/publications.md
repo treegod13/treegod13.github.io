@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 
-* [<font color="#dd0000">TMC</font>] **Mozi Chen**, Kezhong Liu, Jie Ma, Yu Gu, Zheng Dong and Cong Liu, **SWIM: Speed-aware WiFi-based Passive Indoor Localization for Mobile Ship Environment**,IEEE Transactions on Mobile Computing, 2019.[[PDF](https://treegod13.github.io/files/TMC_SWIM1.pdf)]
+* [<font color="#dd0000">TMC</font>] **Mozi Chen**, Kezhong Liu, Jie Ma, Yu Gu, Zheng Dong and Cong Liu, **SWIM: Speed-aware WiFi-based Passive Indoor Localization for Mobile Ship Environment**, IEEE Transactions on Mobile Computing, 2019.[[PDF](https://treegod13.github.io/files/TMC_SWIM1.pdf)]
 
 * **Mozi Chen**, Kezhong Liu, Jie Ma and Cong Liu, **Spatio-temporal Fingerprint Localization for Shipboard Wireless Sensor Networks**, IEEE Sensors Journal, 2018.[[PDF](https://treegod13.github.io/files/Sensors_STF.pdf)]
 
