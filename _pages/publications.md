@@ -18,15 +18,10 @@ author_profile: true
 
 * Kezhong Liu, **Mozi Chen**, E cai, Jie Ma and Shoujun Liu, Indoor Localization Strategy Based on Fault-tolerant Area Division for Shipboard Surveillance, **Automation in Construction**, 2018.[[PDF](https://treegod13.github.io/files/AoC_2018.pdf)]
 
-* [ICTIS2017] Zhao Hu, Kezhong Liu, **Mozi Chen**, Jie Ma, A multi-scale indoor localization method for shipboard environment, In proceedings of the 4th International Conference on Transportation Information and Safety, 2017.[[PDF]]
+* [ICTIS2017] Zhao Hu, Kezhong Liu, **Mozi Chen**, Jie Ma, A multi-scale indoor localization method for shipboard environment, **In proceedings of the 4th International Conference on Transportation Information and Safety**, 2017.[[PDF]]
 
-* [IAIN2015] Kezhong Liu, Yihang Xie, **Mozi Chen**, Jie Ma, Ship-board pedestrian positioning method by integrating Dead Reckoning and Wireless Sensor Networks, In proceedings of the International Association of Institutes of Navigation World Congress, 2015. [PDF]
+* [IAIN2015] Kezhong Liu, Yihang Xie, **Mozi Chen**, Jie Ma, Ship-board pedestrian positioning method by integrating Dead Reckoning and Wireless Sensor Networks, **In proceedings of the International Association of Institutes of Navigation World Congress**, 2015. [PDF]
 
-
-#(https://treegod13.github.io/files/TMC_SWIM1.pdf)]
-
-#[[PDF](https://treegod13.github.io/files/TMC_SWIM1.pdf)]
-#[[PDF](https://treegod13.github.io/files/TMC_SWIM1.pdf)]
 
 <!--
 {% for post in site.publications reversed %}

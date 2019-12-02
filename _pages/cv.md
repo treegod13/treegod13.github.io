@@ -11,10 +11,13 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electric Engineering, Hubei University of Technology, 2013
+* M.S. in Traffic Information Engineering & Control, Wuhan University of Technology, 2014
+* Ph.D in Traffic Information Engineering & Control, Wuhan University of Technolo, 2020 (expected)
 
+
+
+<!--
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -56,4 +59,10 @@ Teaching
   
 Service and leadership
 ======
+-->
+
+
+
+
+
 * Currently signed in to 43 different slack teams
