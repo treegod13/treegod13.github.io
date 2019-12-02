@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Biography"
+title: "Mozi Chen (陈默子) - Biography"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
