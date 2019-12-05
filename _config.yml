@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mozi Chen (陈默子)"
 title_separator          : "-"
-#name                     : &name "Mozi Chen"
+name                     : &name "Mozi Chen"
 description              : &description "PhD candidate at Wuhan University of Technology"
 url                      : https://www.chenmz.live # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Mozi Chen"
+  #name             : "Mozi Chen"
   avatar           : "photo_cut.JPG"
   bio              : "PhD candidate at Wuhan University of Technology"
   location         : "Wuhan, China"
@@ -311,4 +311,4 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-minimal
-title: Welcome to Mozi Chen (陈默子)'s homepage!
+title: Mozi Chen (陈默子)
