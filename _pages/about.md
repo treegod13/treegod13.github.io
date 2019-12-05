@@ -43,7 +43,7 @@ Email: chenmz AT whut.edu.cn
 
 * Ph.D in Traffic Information Engineering & Control, Wuhan University of Technology, 2020 (expected)
 * M.S. in Traffic Information Engineering & Control, Wuhan University of Technology, 2014
-* B.S. in Electric Engineering, Hubei University of Technology, 2013
+* B.S. in Electric Information Engineering, Hubei University of Technology, 2013
 
 ---
 # Honors & Awards
