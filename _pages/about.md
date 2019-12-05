@@ -17,7 +17,6 @@ Email: chenmz AT whut.edu.cn
 
 ---
 # Publications
-======
 
 * [<font color="#dd0000">TMC</font>] **Mozi Chen**, Kezhong Liu, Jie Ma, Yu Gu, Zheng Dong and Cong Liu, **SWIM: Speed-aware WiFi-based Passive Indoor Localization for Mobile Ship Environment**, IEEE Transactions on Mobile Computing, 2019.[[PDF](https://treegod13.github.io/files/TMC_SWIM1.pdf)]
 
@@ -32,7 +31,6 @@ Email: chenmz AT whut.edu.cn
 
 -----
 # Education
-=====
 
 * B.S. in Electric Engineering, Hubei University of Technology, 2013
 * M.S. in Traffic Information Engineering & Control, Wuhan University of Technology, 2014

@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Mozi Chen"
 title_separator          : "-"
-name                     : &name "Mozi Chen"
+name                     : &name "Mozi Chen (陈默子)"
 description              : &description "PhD candidate at Wuhan University of Technology"
 url                      : https://treegod13.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
