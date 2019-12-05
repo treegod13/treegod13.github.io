@@ -30,11 +30,13 @@ Email: chenmz AT whut.edu.cn
 * [<font color="#dd0000">IAIN2015</font>] Kezhong Liu, Yihang Xie, **Mozi Chen**, Jie Ma, **Ship-board pedestrian positioning method by integrating Dead Reckoning and Wireless Sensor Networks**, In proceedings of the International Association of Institutes of Navigation World Congress, 2015.[[PDF](https://treegod13.github.io/files/paper1.pdf)]
 
 
-<!--# Publications in China-->
 
-* 陈家豪, 刘克中, **陈默子**, 马杰, 王晓琼. **基于信道状态信息的船舶敏感区域入侵检测方法**. 大连海事大学学报, 2018.[[DOWNLOAD](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=DLHS201901011&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoRGE5cVFWWVpRSW1hQnNFdmFKcGVwcz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTY3ODllWnFGeUhuVWJ6SUlTSERmYkc0SDlqTXJvOUVaWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZVo=)]
+* 陈家豪, 刘克中, **陈默子**, 马杰, 王晓琼. **基于信道状态信息的船舶敏感区域入侵检测方法**. 大连海事大学学报, 2018.[[LINK](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2019&filename=DLHS201901011&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoRGE5cVFWWVpRSW1hQnNFdmFKcGVwcz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MTY3ODllWnFGeUhuVWJ6SUlTSERmYkc0SDlqTXJvOUVaWVI4ZVgxTHV4WVM3RGgxVDNxVHJXTTFGckNVUkxPZVo=)]
 
-* 庄洋, 刘克中, **陈默子**, 马杰, 胡招. **船载监控网络节点信息感知信任度模型**. 中国航海, 2017.[[DOWNLOAD](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=ZGHH201703010&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoRGE5cVFWWVpRSW1hQnNFdmFKcGVwcz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjQ3NzRIblZMM0lQeXJEWnJHNEg5Yk1ySTlFWklSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVpxRnk=)]
+* 庄洋, 刘克中, **陈默子**, 马杰, 胡招. **船载监控网络节点信息感知信任度模型**. 中国航海, 2017.[[LINK](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFQ&dbname=CJFDLAST2017&filename=ZGHH201703010&uid=WEEvREcwSlJHSldRa1FhdXNXaEhoRGE5cVFWWVpRSW1hQnNFdmFKcGVwcz0=$9A4hF_YAuvQ5obgVAqNKPCYcEjKensW4IQMovwHtwkF4VYPoHbKxJw!!&v=MjQ3NzRIblZMM0lQeXJEWnJHNEg5Yk1ySTlFWklSOGVYMUx1eFlTN0RoMVQzcVRyV00xRnJDVVJMT2VaZVpxRnk=)]
+
+
+<!--# Patents-->
 
 ---
 # Education
