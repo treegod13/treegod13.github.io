@@ -45,5 +45,14 @@ Email: chenmz AT whut.edu.cn
 * M.S. in Traffic Information Engineering & Control, Wuhan University of Technology, 2014
 * Ph.D in Traffic Information Engineering & Control, Wuhan University of Technolo, 2020 (expected)
 
------
+---
+# Honors & Awards
+
+* Excellent Student Scholarship, Wuhan University of Technology, 2019
+* Postgraduate Study Abroad Funding, China Scholarships Council, 2018
+* Excellent Student Scholarship, Wuhan University of Technology, 2017
+* Excellent Doctoral Dissertation Training Funding, Wuhan University of Technology, 2017
+* Excellent Student Scholarship, Wuhan University of Technology, 2016
+
+---
 ![wordcloud](https://www.chenmz.live/images/wordcloud.png)
