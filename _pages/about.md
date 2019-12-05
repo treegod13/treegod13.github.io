@@ -46,4 +46,4 @@ Email: chenmz AT whut.edu.cn
 * Ph.D in Traffic Information Engineering & Control, Wuhan University of Technolo, 2020 (expected)
 
 -----
-![wordcloud](https://treegod13.github.io/images/wordcloud.png)
+![wordcloud](https://www.chenmz.live/images/wordcloud.png)
