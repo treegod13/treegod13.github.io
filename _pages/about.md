@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Mozi Chen (陈默子) - Biography"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,7 +16,8 @@ Email: chenmz AT whut.edu.cn
 
 
 ---
-
+# Publications
+======
 
 * [<font color="#dd0000">TMC</font>] **Mozi Chen**, Kezhong Liu, Jie Ma, Yu Gu, Zheng Dong and Cong Liu, **SWIM: Speed-aware WiFi-based Passive Indoor Localization for Mobile Ship Environment**, IEEE Transactions on Mobile Computing, 2019.[[PDF](https://treegod13.github.io/files/TMC_SWIM1.pdf)]
 
@@ -28,6 +29,14 @@ Email: chenmz AT whut.edu.cn
 
 * [IAIN2015] Kezhong Liu, Yihang Xie, **Mozi Chen**, Jie Ma, **Ship-board pedestrian positioning method by integrating Dead Reckoning and Wireless Sensor Networks**, In proceedings of the International Association of Institutes of Navigation World Congress, 2015.[[PDF](https://treegod13.github.io/files/paper1.pdf)]
 
+
+-----
+# Education
+=====
+
+* B.S. in Electric Engineering, Hubei University of Technology, 2013
+* M.S. in Traffic Information Engineering & Control, Wuhan University of Technology, 2014
+* Ph.D in Traffic Information Engineering & Control, Wuhan University of Technolo, 2020 (expected)
 
 -----
 ![wordcloud](https://treegod13.github.io/images/wordcloud.png)
