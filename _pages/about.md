@@ -51,7 +51,7 @@ Email: chenmz AT whut.edu.cn
 * Excellent Student Scholarship, Wuhan University of Technology, 2019
 * Postgraduate Study Abroad Funding, China Scholarships Council, 2018
 * Excellent Student Scholarship, Wuhan University of Technology, 2017
-* Excellent Doctoral Dissertation Funding, Wuhan University of Technology, 2017
+* Outstanding Doctoral Dissertation Funding, Wuhan University of Technology, 2017
 * Excellent Student Scholarship, Wuhan University of Technology, 2016
 
 ---
