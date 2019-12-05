@@ -311,4 +311,4 @@ compress_html:
     envs: development
 
 theme: jekyll-theme-minimal
-title: Welcome to Mozi Chen's homepage!
+#title: Welcome to Mozi Chen's homepage!
