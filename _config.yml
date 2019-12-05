@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mozi Chen"
+title                    : "Mozi Chen (陈默子)"
 title_separator          : "-"
-name                     : &name "Mozi Chen"
+#name                     : &name "Mozi Chen"
 description              : &description "PhD candidate at Wuhan University of Technology"
 url                      : https://www.chenmz.live # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
