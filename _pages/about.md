@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my homepage!"
+<!--title: "Welcome to my homepage!"-->
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 <!--# About me-->
+
+# Publications
 
 I am pursuing my Ph.D. in Traffic Information Engineering & Control from Wuhan University of Technology from 2016, where I am advised by [Prof. Kezhong Liu](http://sn.whut.edu.cn/contents/68/8819.html) in the Martime Intelligent Transportation System Group. I was Research Scholar in the Dept. of Computer Science, The University of Texas at Dallas, under Advisor [Prof. Cong Liu](https://personal.utdallas.edu/~cxl137330/) during Nov. 2017 - Dec. 2018.
 My PhD work has been focusing on wireless sensing techniques and machine learning algorithms for human localization, emergency navigation and activity recognition in mobile environment, i.e., cruise ships.
@@ -17,9 +19,9 @@ Email: chenmz AT whut.edu.cn
 
 
 ---
-# Publications
+# Welcome to my homepage!
 
-* [<font color="#dd0000">TMC</font>] **Mozi Chen**, Kezhong Liu, Jie Ma, Yu Gu, Zheng Dong and Cong Liu, **SWIM: Speed-aware WiFi-based Passive Indoor Localization for Mobile Ship Environment**, IEEE Transactions on Mobile Computing, 2019.[[PDF](https://treegod13.github.io/files/TMC_SWIM1.pdf)]
+[<font color="#dd0000">TMC</font>] **Mozi Chen**, Kezhong Liu, Jie Ma, Yu Gu, Zheng Dong and Cong Liu, **SWIM: Speed-aware WiFi-based Passive Indoor Localization for Mobile Ship Environment**, IEEE Transactions on Mobile Computing, 2019.[[PDF](https://treegod13.github.io/files/TMC_SWIM1.pdf)]
 
 * [<font color="#dd0000">Sensors-J</font>] **Mozi Chen**, Kezhong Liu, Jie Ma and Cong Liu, **Spatio-temporal Fingerprint Localization for Shipboard Wireless Sensor Networks**, IEEE Sensors Journal, 2018.[[PDF](https://treegod13.github.io/files/Sensors_STF.pdf)]
 
