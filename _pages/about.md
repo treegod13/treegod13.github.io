@@ -1,12 +1,15 @@
 ---
 permalink: /
-<!--title: "Welcome to my homepage!"-->
+title: "Welcome to my homepage!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+title: "Homepage of Mozi Chen - Wuhan University of Technology"
+
 <!--# About me-->
 
 # Publications
