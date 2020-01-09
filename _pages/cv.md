@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+<!--
 ## Education
 ======
 * B.S. in Electric Engineering, Hubei University of Technology, 2013
@@ -17,7 +18,6 @@ redirect_from:
 
 
 
-<!--
 Work experience
 ======
 * Summer 2015: Research Assistant
