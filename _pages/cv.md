@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my CV here!
+You can download my CV here![[PDF](https://treegod13.github.io/files/Mozi_Chen_s_CV.pdf)]
 
 <!--
 ## Education
