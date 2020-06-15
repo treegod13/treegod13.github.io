@@ -38,8 +38,8 @@ Email: chenmz AT whut.edu.cn
 
 <!--# Patents-->
 
-# Patents Applied in China
-* Kezhong Liu, Jiahao Chen, **Mozi Chen**, Shuanglin Zhou, Xing Yang, Jie Ma and Guoyu Wang, **A Novel Intrusion Detection Method and Device For Ship Sensitive Area Based on Wireless Perception techniques**, Invention Patent, No. 201810110468.4
+<!--# Patents Applied in China-->
+<!--* Kezhong Liu, Jiahao Chen, **Mozi Chen**, Shuanglin Zhou, Xing Yang, Jie Ma and Guoyu Wang, **A Novel Intrusion Detection Method and Device For Ship Sensitive Area Based on Wireless Perception techniques**, Invention Patent, No. 201810110468.4-->
 
 
 
