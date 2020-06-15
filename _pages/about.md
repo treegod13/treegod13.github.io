@@ -19,6 +19,8 @@ Email: chenmz AT whut.edu.cn
 # Publications
 * [<font color="#dd0000">IOTJ</font>] **Mozi Chen**, Kezhong Liu, Jie Ma, Zheng Dong, Guangmo Tong and Cong Liu, **MoLoc: Unsupervised Fingerprint Roaming for Device-free Indoor Localization in a Mobile Ship Environment**, *IEEE Internet of Things Journal*, 2020.(To appear)
 
+* [<font color="#dd0000">HT20</font>] Chen Ling, Guangmo Tong, **Mozi Chen**, **NesTPP: Modeling Thread Dynamics in Online Discussion Forums**, ACM Conference on Hypertext and Social Media, 2020.[[LINK](https://arxiv.org/abs/2003.06051)]
+
 * [<font color="#dd0000">TMC</font>] **Mozi Chen**, Kezhong Liu, Jie Ma, Yu Gu, Zheng Dong and Cong Liu, **SWIM: Speed-aware WiFi-based Passive Indoor Localization for Mobile Ship Environment**, *IEEE Transactions on Mobile Computing*, 2019.[[PDF](https://treegod13.github.io/files/TMC_SWIM1.pdf)]
 
 * [<font color="#dd0000">Sensors-J</font>] **Mozi Chen**, Kezhong Liu, Jie Ma and Cong Liu, **Spatio-temporal Fingerprint Localization for Shipboard Wireless Sensor Networks**, *IEEE Sensors Journal*, 2018.[[PDF](https://treegod13.github.io/files/Sensors_STF.pdf)]
@@ -35,6 +37,11 @@ Email: chenmz AT whut.edu.cn
 
 
 <!--# Patents-->
+
+# Patents Applied in China
+* Kezhong Liu, Jiahao Chen, **Mozi Chen**, Shuanglin Zhou, Xing Yang, Jie Ma and Guoyu Wang, **A Novel Intrusion Detection Method and Device For Ship Sensitive Area Based on Wireless Perception techniques**, Invention Patent, No. 201810110468.4
+
+
 
 ---
 # Education
