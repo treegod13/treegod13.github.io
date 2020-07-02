@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am pursuing my Ph.D. in Traffic Information Engineering & Control from Wuhan University of Technology from 2016, where I am advised by [Prof. Kezhong Liu](http://sn.whut.edu.cn/contents/68/8819.html) in the Martime Intelligent Transportation System Group. I was Research Scholar in the Dept. of Computer Science, The University of Texas at Dallas, under Advisor [Prof. Cong Liu](https://personal.utdallas.edu/~cxl137330/) during Nov. 2017 - Dec. 2018.
+I recieved my Ph.D. in Traffic Information Engineering & Control from Wuhan University of Technology in 2020, where I am advised by [Prof. Kezhong Liu](http://sn.whut.edu.cn/contents/68/8819.html) in the Martime Intelligent Transportation System Group. I was a Research Scholar in the Dept. of Computer Science, The University of Texas at Dallas, under Advisor [Prof. Cong Liu](https://personal.utdallas.edu/~cxl137330/) during Nov. 2017 - Dec. 2018.
 My PhD work has been focusing on wireless sensing techniques and machine learning algorithms for human localization, emergency navigation and activity recognition in mobile environment, i.e., cruise ships.
 My current areas of interest include cyber-physical systems, wireless networks, mobile computing, big data analytics, real-time systems and related areas. 
 
@@ -19,7 +19,7 @@ Email: chenmz AT whut.edu.cn
 # Publications
 * [<font color="#dd0000">IOTJ</font>] **Mozi Chen**, Kezhong Liu, Jie Ma, Zheng Dong, Guangmo Tong and Cong Liu, **MoLoc: Unsupervised Fingerprint Roaming for Device-free Indoor Localization in a Mobile Ship Environment**, *IEEE Internet of Things Journal*, 2020.(To appear)
 
-* [<font color="#dd0000">HT20</font>] Chen Ling, Guangmo Tong, **Mozi Chen**, **NesTPP: Modeling Thread Dynamics in Online Discussion Forums**, ACM Conference on Hypertext and Social Media, 2020.[[LINK](https://arxiv.org/abs/2003.06051)]
+* [<font color="#dd0000">HT20</font>] Chen Ling, Guangmo Tong, **Mozi Chen**, **NesTPP: Modeling Thread Dynamics in Online Discussion Forums**, *ACM Conference on Hypertext and Social Media*, 2020.[[LINK](https://arxiv.org/abs/2003.06051)]
 
 * [<font color="#dd0000">TMC</font>] **Mozi Chen**, Kezhong Liu, Jie Ma, Yu Gu, Zheng Dong and Cong Liu, **SWIM: Speed-aware WiFi-based Passive Indoor Localization for Mobile Ship Environment**, *IEEE Transactions on Mobile Computing*, 2019.[[PDF](https://treegod13.github.io/files/TMC_SWIM1.pdf)]
 
