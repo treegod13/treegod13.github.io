@@ -17,7 +17,11 @@ Email: chenmz AT whut.edu.cn
 
 ---
 # Publications
-* [<font color="#dd0000">IOTJ</font>] **Mozi Chen**, Kezhong Liu, Jie Ma, Zheng Dong, Guangmo Tong and Cong Liu, **MoLoc: Unsupervised Fingerprint Roaming for Device-free Indoor Localization in a Mobile Ship Environment**, *IEEE Internet of Things Journal*, 2020.(To appear)
+
+* [<font color="#dd0000">Access</font>]Yuting Ma, Kezhong Liu, **Mozi Chen**, Jie Ma, Xuming Zeng, Kehao Wang and Cong Liu, **ANT: Deadline-aware Adaptive Emergency Navigation Strategy for Dynamic Hazardous Ship Evacuation with Wireless Sensor Networks**, *IEEE Access*, 2020. [[PDF](https://treegod13.github.io/files/ant.pdf)] (\* Corresponding author) 
+
+
+* [<font color="#dd0000">IOTJ</font>] **Mozi Chen**, Kezhong Liu, Jie Ma, Zheng Dong, Guangmo Tong and Cong Liu, **MoLoc: Unsupervised Fingerprint Roaming for Device-free Indoor Localization in a Mobile Ship Environment**, *IEEE Internet of Things Journal*, 2020. [[PDF](https://treegod13.github.io/files/moloc.pdf)]
 
 * [<font color="#dd0000">HT20</font>] Chen Ling, Guangmo Tong, **Mozi Chen**, **NesTPP: Modeling Thread Dynamics in Online Discussion Forums**, *ACM Conference on Hypertext and Social Media*, 2020.[[LINK](https://arxiv.org/abs/2003.06051)]
 
