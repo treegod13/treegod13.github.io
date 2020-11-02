@@ -18,6 +18,9 @@ Email: chenmz AT whut.edu.cn
 ---
 # Publications
 
+
+* [<font color="#dd0000">Sensors-J</font>] Xuming Zeng, Kezhong Liu, Jie Ma,  **Mozi Chen**\* and Ming Yu, **Reliability and Delay Trade-off Analysis of Unslotted IEEE 802.15. 4 Sensor Network for Shipboard Environment**, *IEEE Sensors Journal*, 2020. [[LINK](https://ieeexplore.ieee.org/document/9184849/authors#authors)]
+
 * [<font color="#dd0000">Access</font>] Yuting Ma, Kezhong Liu, **Mozi Chen**\*, Jie Ma, Xuming Zeng, Kehao Wang and Cong Liu, **ANT: Deadline-aware Adaptive Emergency Navigation Strategy for Dynamic Hazardous Ship Evacuation with Wireless Sensor Networks**, *IEEE Access*, 2020. [[PDF](https://treegod13.github.io/files/ant.pdf)] (\* Corresponding author) 
 
 
@@ -29,7 +32,7 @@ Email: chenmz AT whut.edu.cn
 
 * [<font color="#dd0000">Sensors-J</font>] **Mozi Chen**, Kezhong Liu, Jie Ma and Cong Liu, **Spatio-temporal Fingerprint Localization for Shipboard Wireless Sensor Networks**, *IEEE Sensors Journal*, 2018.[[PDF](https://treegod13.github.io/files/Sensors_STF.pdf)]
 
-* [<font color="#dd0000">AC</font>] Kezhong Liu, **Mozi Chen**\*, E cai, Jie Ma and Shoujun Liu, **Indoor Localization Strategy Based on Fault-tolerant Area Division for Shipboard Surveillance**, *Automation in Construction*, 2018.[[PDF](https://treegod13.github.io/files/AoC_2018.pdf)] (\* Corresponding author)
+* [<font color="#dd0000">AIC</font>] Kezhong Liu, **Mozi Chen**\*, E cai, Jie Ma and Shoujun Liu, **Indoor Localization Strategy Based on Fault-tolerant Area Division for Shipboard Surveillance**, *Automation in Construction*, 2018.[[PDF](https://treegod13.github.io/files/AoC_2018.pdf)] (\* Corresponding author)
 
 * [<font color="#dd0000">ICTIS2017</font>] Zhao Hu, Kezhong Liu, **Mozi Chen**, Jie Ma, **A multi-scale indoor localization method for shipboard environment**, *In proceedings of the 4th International Conference on Transportation Information and Safety*, 2017.[[PDF](https://treegod13.github.io/files/ITS_2017.pdf)]
 
