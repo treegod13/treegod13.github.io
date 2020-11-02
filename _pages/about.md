@@ -18,7 +18,7 @@ Email: chenmz AT whut.edu.cn
 ---
 # Publications
 
-* [<font color="#dd0000">Sensors-J</font>] Xuming Zeng, Kezhong Liu, Jie Ma,  **Mozi Chen**\* and Ming Yu, **Reliability and Delay Trade-off Analysis of Unslotted IEEE 802.15. 4 Sensor Network for Shipboard Environment**, *IEEE Sensors Journal*, 2020. [[LINK](https://ieeexplore.ieee.org/document/9184849/authors#authors)]
+* [<font color="#dd0000">Sensors-J</font>] Xuming Zeng, Kezhong Liu, Jie Ma,  **Mozi Chen** and Ming Yu, **Reliability and Delay Trade-off Analysis of Unslotted IEEE 802.15. 4 Sensor Network for Shipboard Environment**, *IEEE Sensors Journal*, 2020. [[LINK](https://ieeexplore.ieee.org/document/9184849/authors#authors)]
 
 * [<font color="#dd0000">Access</font>] Yuting Ma, Kezhong Liu, **Mozi Chen**\*, Jie Ma, Xuming Zeng, Kehao Wang and Cong Liu, **ANT: Deadline-aware Adaptive Emergency Navigation Strategy for Dynamic Hazardous Ship Evacuation with Wireless Sensor Networks**, *IEEE Access*, 2020. [[PDF](https://treegod13.github.io/files/ant.pdf)] (\* Corresponding author) 
 
