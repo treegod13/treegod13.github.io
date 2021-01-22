@@ -18,6 +18,8 @@ Email: chenmz AT whut.edu.cn
 ---
 # Publications
 
+* [<font color="#dd0000">Access</font>] Kehao Wang, Hantao Qian, Xuming Zeng, **Mozi Chen**, Kezhong Liu, Kai Zheng, Pan Zhou and Dapeng Wu, **ATPGNN: Reconstruction of Neighborhood in Graph Neural Networks With Attention-Based Topological Patterns**, *IEEE Access*, 2021. [[LINK](https://ieeexplore.ieee.org/document/9319003/authors#authors)]
+
 * [<font color="#dd0000">Sensors-J</font>] Xuming Zeng, Kezhong Liu, Jie Ma,  **Mozi Chen** and Ming Yu, **Reliability and Delay Trade-off Analysis of Unslotted IEEE 802.15. 4 Sensor Network for Shipboard Environment**, *IEEE Sensors Journal*, 2020. [[LINK](https://ieeexplore.ieee.org/document/9184849/authors#authors)]
 
 * [<font color="#dd0000">Access</font>] Yuting Ma, Kezhong Liu, **Mozi Chen**\*, Jie Ma, Xuming Zeng, Kehao Wang and Cong Liu, **ANT: Deadline-aware Adaptive Emergency Navigation Strategy for Dynamic Hazardous Ship Evacuation with Wireless Sensor Networks**, *IEEE Access*, 2020. [[PDF](https://treegod13.github.io/files/ant.pdf)] (\* Corresponding author) 
@@ -51,6 +53,8 @@ Email: chenmz AT whut.edu.cn
 
 * 刘克中, 陈嘉鸣, **陈默子**, 曾旭明, 马杰, 王国宇, 马玉亭, 李春伸, **基于WiFi的船舶驾驶室人员值班行为识别方法及系统**, *发明专利*, ZL201911166193.7
 
+
+* 刘克中, 周双林, **陈默子**, 陈家豪, 杨星, 马杰, 王国宇, 潘泳峰, **基于RSSI序列匹配的船载节点定位方法**, *发明专利*, ZL201810113406.9
 
 <!--# Patents Applied in China-->
 <!--* Kezhong Liu, Jiahao Chen, **Mozi Chen**, Shuanglin Zhou, Xing Yang, Jie Ma and Guoyu Wang, **A Novel Intrusion Detection Method and Device For Ship Sensitive Area Based on Wireless Perception techniques**, Invention Patent, No. 201810110468.4-->
