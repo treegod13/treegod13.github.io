@@ -18,6 +18,8 @@ Email: chenmz AT whut.edu.cn
 ---
 # Publications
 
+* [<font color="#dd0000">NETWORK</font>] Kehao Wang, Zhixin Hu, Qingsong Ai, Quan Liu, **Mozi Chen**, Kezhong Liu and Yirui Cong, **Membership Inference Attack with Multi-Grade Service Models in Edge Intelligence**, *IEEE Network*, 2021. [[LINK](https://ieeexplore.ieee.org/document/9355044)]
+
 * [<font color="#dd0000">Access</font>] Kehao Wang, Hantao Qian, Xuming Zeng, **Mozi Chen**, Kezhong Liu, Kai Zheng, Pan Zhou and Dapeng Wu, **ATPGNN: Reconstruction of Neighborhood in Graph Neural Networks With Attention-Based Topological Patterns**, *IEEE Access*, 2021. [[LINK](https://ieeexplore.ieee.org/document/9319003/authors#authors)]
 
 * [<font color="#dd0000">Sensors-J</font>] Xuming Zeng, Kezhong Liu, Jie Ma,  **Mozi Chen** and Ming Yu, **Reliability and Delay Trade-off Analysis of Unslotted IEEE 802.15. 4 Sensor Network for Shipboard Environment**, *IEEE Sensors Journal*, 2020. [[LINK](https://ieeexplore.ieee.org/document/9184849/authors#authors)]
