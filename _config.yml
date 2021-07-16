@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mozi Chen (陈默子)"
 title_separator          : "-"
 name                     : &name "Mozi Chen"
-description              : &description "PhD candidate at Wuhan University of Technology"
+description              : &description "Associate Professor at Wuhan University of Technology"
 url                      : https://www.chenmz.live # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "treegod13.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   #name             : "Mozi Chen"
   avatar          : "photo_winter.jpg"
-  bio              : "PhD | School of Navigation | Wuhan University of Technology (WUT)"
+  bio              : "Associate Professor | School of Navigation | Wuhan University of Technology (WUT)"
   location         : "Wuhan, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
