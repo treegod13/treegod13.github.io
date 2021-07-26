@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently an Associate Research Professor in the School of Navigation at Wuhan University of Technology (WUT). I recieved my Ph.D. in Traffic Information Engineering & Control from WUT in 2020, where I am advised by [Prof. Kezhong Liu](http://sn.whut.edu.cn/contents/68/8819.html) in the Martime Intelligent Transportation System Group. I was a Research Scholar in the Dept. of Computer Science, The University of Texas at Dallas, under Advisor [Prof. Cong Liu](https://personal.utdallas.edu/~cxl137330/) during Nov. 2017 - Dec. 2018.
+I am currently an Associate Research Professor in the [School of Navigation](http://sn.whut.edu.cn/) at [Wuhan University of Technology (WUT)](https://www.whut.edu.cn/). I recieved my Ph.D. in Traffic Information Engineering & Control from WUT in 2020, where I am advised by [Prof. Kezhong Liu](http://sn.whut.edu.cn/contents/68/8819.html) in the Martime Intelligent Transportation System Group. I was a Research Scholar in the Dept. of Computer Science, The University of Texas at Dallas, under Advisor [Prof. Cong Liu](https://personal.utdallas.edu/~cxl137330/) during Nov. 2017 - Dec. 2018.
 My PhD work has been focusing on wireless sensing techniques and machine learning algorithms for human localization, emergency navigation and activity recognition in mobile environment, i.e., cruise ships.
 My current areas of interest include cyber-physical systems, wireless networks, mobile computing, real-time systems and related areas. 
 
