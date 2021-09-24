@@ -84,12 +84,12 @@ author:
   avatar          : "photo_winter.jpg"
   bio              : "Associate Professor | School of Navigation | Wuhan University of Technology (WUT)"
   location         : "Wuhan, China"
-  employer         : "http://sn.whut.edu.cn/contents/209/11748.html"
+  employer         : #
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=npSXctEAAAAJ&hl=zh-CN"
   email            : "chenmz@whut.edu.cn"
   researchgate     : "https://www.researchgate.net/profile/Chen_Mozi"
-  uri              :
+  uri              : "http://sn.whut.edu.cn/contents/209/11748.html"
   bitbucket        :
   codepen          :
   dribbble         :
