@@ -52,12 +52,15 @@ Email: chenmz AT whut.edu.cn
 
 # Patents
 
+* 刘克中, 王国宇, **陈默子**, 曾旭明, 杨稳, 陈梦达, 马玉亭, 李春伸, **一种基于菲涅尔区的船载环境多目标室内定位方法**, *发明专利*, ZL202011557070.9[[PDF](https://treegod13.github.io/files/patent4.pdf)]
+
 * 刘克中, 杨稳, **陈默子**, 马杰, 曾旭明, 王国宇, 马玉亭, 李春伸, **一种基于CSI指纹特征迁移的船载环境室内定位方法**, *发明专利*, ZL201911233594.X[[PDF](https://treegod13.github.io/files/patent1.pdf)] 
 
 * 刘克中, 陈嘉鸣, **陈默子**, 曾旭明, 马杰, 王国宇, 马玉亭, 李春伸, **基于WiFi的船舶驾驶室人员值班行为识别方法及系统**, *发明专利*, ZL201911166193.7[[PDF](https://treegod13.github.io/files/patent2.pdf)]
 
-
 * 刘克中, 周双林, **陈默子**, 陈家豪, 杨星, 马杰, 王国宇, 潘泳峰, **基于RSSI序列匹配的船载节点定位方法**, *发明专利*, ZL201810113406.9[[PDF](https://treegod13.github.io/files/patent3.pdf)]
+
+
 
 <!--# Patents Applied in China-->
 <!--* Kezhong Liu, Jiahao Chen, **Mozi Chen**, Shuanglin Zhou, Xing Yang, Jie Ma and Guoyu Wang, **A Novel Intrusion Detection Method and Device For Ship Sensitive Area Based on Wireless Perception techniques**, Invention Patent, No. 201810110468.4-->
