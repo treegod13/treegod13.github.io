@@ -54,6 +54,8 @@ Email: chenmz AT whut.edu.cn
 
 # Patents
 
+* **陈默子**, 张艺瀚, 刘克中, 杨星, 马玉亭, 郑凯, 曾小玲, 裴大帅, **一种基于室内外位置信息的船舶应急疏散方法**, *发明专利*, ZL202111291218.3[[PDF](https://treegod13.github.io/files/patent5.pdf)]
+
 * 刘克中, 王国宇, **陈默子**, 曾旭明, 杨稳, 陈梦达, 马玉亭, 李春伸, **一种基于菲涅尔区的船载环境多目标室内定位方法**, *发明专利*, ZL202011557070.9[[PDF](https://treegod13.github.io/files/patent4.pdf)]
 
 * 刘克中, 杨稳, **陈默子**, 马杰, 曾旭明, 王国宇, 马玉亭, 李春伸, **一种基于CSI指纹特征迁移的船载环境室内定位方法**, *发明专利*, ZL201911233594.X[[PDF](https://treegod13.github.io/files/patent1.pdf)] 
