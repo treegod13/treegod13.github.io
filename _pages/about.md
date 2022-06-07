@@ -77,7 +77,7 @@ Email: chenmz AT whut.edu.cn
 # Books
 
 * 刘克中, **陈默子**, 曾旭明, 王克浩，**船舶舱室环境定位与感知技术**, *科学出版社*, 2022
-* **陈默子**, 无线室内定位技术, To appear[[LINK](https://mozi-chen.gitbook.io/indoor-localization/)]
+* 陈默子, 无线室内定位原理与技术, 资料[[LINK](https://mozi-chen.gitbook.io/indoor-localization/)]
 
 ---
 # Education
