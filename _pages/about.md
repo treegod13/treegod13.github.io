@@ -17,9 +17,6 @@ Email: chenmz AT whut.edu.cn
 
 
 ---
-# Books
-
-* [室内定位技术（https://mozi-chen.gitbook.io/indoor-localization/）]
 
 # Publications
 
@@ -77,7 +74,10 @@ Email: chenmz AT whut.edu.cn
 <!--# Patents Applied in China-->
 <!--* Kezhong Liu, Jiahao Chen, **Mozi Chen**, Shuanglin Zhou, Xing Yang, Jie Ma and Guoyu Wang, **A Novel Intrusion Detection Method and Device For Ship Sensitive Area Based on Wireless Perception techniques**, Invention Patent, No. 201810110468.4-->
 
+# Books
 
+* 刘克中, **陈默子**, 曾旭明, 王克浩，**船舶舱室环境定位与感知技术**, *科学出版社*, 2022
+* **陈默子**, 无线室内定位技术, To appear[[LINK](https://mozi-chen.gitbook.io/indoor-localization/)]
 
 ---
 # Education
