@@ -17,6 +17,10 @@ Email: chenmz AT whut.edu.cn
 
 
 ---
+# Books
+
+* [室内定位技术（https://mozi-chen.gitbook.io/indoor-localization/）]
+
 # Publications
 
 * [<font color="#dd0000">TIM</font>] Mengda Chen, Jie Ma, Xuming Zeng, Kezhong Liu, **Mozi Chen**, Kai Zheng and Kehao Wang, **MD-Alarm: A Novel Manpower Detection Method for Ship Bridge Watchkeeping using WiFi Signals**, *IEEE Transactions on Instrumentation and Measurement*, 2022. [[PDF](https://treegod13.github.io/files/MD-Alarm(color).pdf)]
