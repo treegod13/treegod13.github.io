@@ -81,9 +81,11 @@ Email: chenmz AT whut.edu.cn
 
 ---
 
-# Courses
+# Teaching
 
-* 陈默子, **无线室内定位技术** [[课程资料](https://mozi-chen.gitbook.io/indoor-localization/)]
+* **无线室内定位技术**, 本科生课程 [[课程资料](https://mozi-chen.gitbook.io/indoor-localization/)]
+
+* **研究方法与学术论文写作**，研究生课程
 
 ---
 # Education
