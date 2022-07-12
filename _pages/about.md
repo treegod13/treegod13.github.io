@@ -20,6 +20,8 @@ Email: chenmz AT whut.edu.cn
 
 # Publications
 
+* [<font color="#dd0000">IOTJ</font>] Kezhong Liu, Wen Yang, **Mozi Chen**\*, Kai Zheng, Xuming Zeng, Shengkai Zhang, Cong Liu, **Deep Learning based Wireless Human Motion Tracking for Mobile Ship Environments**, *IEEE Internet of Things Journal*, 2022.[[PDF](https://treegod13.github.io/files/crloc.pdf)](\* Corresponding author) 
+
 * [<font color="#dd0000">TIM</font>] Mengda Chen, Jie Ma, Xuming Zeng, Kezhong Liu, **Mozi Chen**, Kai Zheng and Kehao Wang, **MD-Alarm: A Novel Manpower Detection Method for Ship Bridge Watchkeeping using WiFi Signals**, *IEEE Transactions on Instrumentation and Measurement*, 2022. [[PDF](https://treegod13.github.io/files/MD-Alarm(color).pdf)]
 
 * [<font color="#dd0000">NETWORK</font>] Kehao Wang, Zhixin Hu, Qingsong Ai, Quan Liu, **Mozi Chen**, Kezhong Liu and Yirui Cong, **Membership Inference Attack with Multi-Grade Service Models in Edge Intelligence**, *IEEE Network*, 2021. [[LINK](https://ieeexplore.ieee.org/document/9355044)]
