@@ -20,6 +20,8 @@ Email: chenmz AT whut.edu.cn
 
 # Publications
 
+* [<font color="#dd0000">OE</font>] Kezhong Liu, Yuting Ma, **Mozi Chen**\*, Kehao Wang, and Kai Zheng, **A Survey of Crowd Evacuation on Passenger Ships: Recent Advances and Future Challenges**, *Ocean Engineering*, 2022. [[PDF](https://treegod13.github.io/files/oe_survey.pdf)] (\* Corresponding author) 
+
 * [<font color="#dd0000">IOTJ</font>] Kezhong Liu, Wen Yang, **Mozi Chen**\*, Kai Zheng, Xuming Zeng, Shengkai Zhang, Cong Liu, **Deep Learning based Wireless Human Motion Tracking for Mobile Ship Environments**, *IEEE Internet of Things Journal*, 2022. [[PDF](https://treegod13.github.io/files/crloc.pdf)] (\* Corresponding author) 
 
 * [<font color="#dd0000">TIM</font>] Mengda Chen, Jie Ma, Xuming Zeng, Kezhong Liu, **Mozi Chen**, Kai Zheng and Kehao Wang, **MD-Alarm: A Novel Manpower Detection Method for Ship Bridge Watchkeeping using WiFi Signals**, *IEEE Transactions on Instrumentation and Measurement*, 2022. [[PDF](https://treegod13.github.io/files/MD-Alarm(color).pdf)]
@@ -71,6 +73,8 @@ Email: chenmz AT whut.edu.cn
 * 刘克中, 陈嘉鸣, **陈默子**, 曾旭明, 马杰, 王国宇, 马玉亭, 李春伸, **基于WiFi的船舶驾驶室人员值班行为识别方法及系统**, *发明专利*, ZL201911166193.7[[PDF](https://treegod13.github.io/files/patent2.pdf)]
 
 * 刘克中, 周双林, **陈默子**, 陈家豪, 杨星, 马杰, 王国宇, 潘泳峰, **基于RSSI序列匹配的船载节点定位方法**, *发明专利*, ZL201810113406.9[[PDF](https://treegod13.github.io/files/patent3.pdf)]
+
+* 刘克中, 龚大内, 曾旭明, **陈默子**, 郑凯, 陈梦达, 李春伸, 王国宇, **一种基于双毫米波雷达的船载环境入侵检测方法及系统**, *发明专利*, ZL202210447260.8[[PDF](https://treegod13.github.io/files/patent8.pdf)]
 
 ---
 
