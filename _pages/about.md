@@ -20,6 +20,8 @@ Email: chenmz AT whut.edu.cn
 
 # Publications
 
+* [<font color="#dd0000">IOTJ</font>] Kezhong Liu, Dashuai Pei, Shengkai Zhang, Xuming Zeng, Kai Zheng, Chunshen Li and **Mozi Chen**\*, **WiCrew: Gait-based Crew Identification for Cruise Ships Using Commodity WiFi**, *IEEE Internet of Things Journal*, 2022. [[PDF](https://treegod13.github.io/files/WiCrew.pdf)] (\* Corresponding author) 
+
 * [<font color="#dd0000">Sensors-J</font>] Kezhong Liu, Yuting Ma, **Mozi Chen**\*, Kehao Wang, Kai Zheng, and Xuming Zeng, **WEND: An Efficient WSN-assisted Emergency Navigation Algorithm for Dynamic Hazardous Ship Indoor Environments**, *IEEE Sensors Journal*, 2022. [[PDF](https://treegod13.github.io/files/WEND.pdf)] (\* Corresponding author) 
 
 * [<font color="#dd0000">OE</font>] Kezhong Liu, Yuting Ma, **Mozi Chen**\*, Kehao Wang, and Kai Zheng, **A Survey of Crowd Evacuation on Passenger Ships: Recent Advances and Future Challenges**, *Ocean Engineering*, 2022. [[PDF](https://treegod13.github.io/files/oe_survey.pdf)] (\* Corresponding author) 
