@@ -20,6 +20,8 @@ Email: chenmz AT whut.edu.cn
 
 # Publications
 
+* [<font color="#dd0000">MOST'23</font>] Xiaoling Zeng, Kezhong Liu, Yuting Ma, and **Mozi Chen**\*, **DC-HEN: A Deadline-aware and Congestion-relieved Hierarchical Emergency Navigation Algorithm for Ship Indoor Environments**, *The First IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)*, 2022. [[PDF](https://treegod13.github.io/files/DC-HEN-conf.pdf)] [[Slide](https://treegod13.github.io/files/MOST2023_presentation.pdf)]
+
 * [<font color="#dd0000">IOTJ</font>] Kezhong Liu, Dashuai Pei, Shengkai Zhang, Xuming Zeng, Kai Zheng, Chunshen Li and **Mozi Chen**\*, **WiCrew: Gait-based Crew Identification for Cruise Ships Using Commodity WiFi**, *IEEE Internet of Things Journal*, 2022. [[PDF](https://treegod13.github.io/files/WiCrew.pdf)] (\* Corresponding author) 
 
 * [<font color="#dd0000">Sensors-J</font>] Kezhong Liu, Yuting Ma, **Mozi Chen**\*, Kehao Wang, Kai Zheng, and Xuming Zeng, **WEND: An Efficient WSN-assisted Emergency Navigation Algorithm for Dynamic Hazardous Ship Indoor Environments**, *IEEE Sensors Journal*, 2022. [[PDF](https://treegod13.github.io/files/WEND.pdf)] (\* Corresponding author) 
