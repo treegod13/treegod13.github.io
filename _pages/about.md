@@ -20,6 +20,8 @@ Email: chenmz AT whut.edu.cn
 
 # Publications
 
+* [<font color="#dd0000">T-ITS</font>] Yuting Ma, Kezhong Liu, **Mozi Chen**, Yinhao Li, Rui Sun and Rajiv Ranjan, **Rapid Crowd Evacuation for Passenger Ships using LPWAN**, *IEEE NeTransactions on Intelligent Transportation Systemstwork*, 2023. [[PDF](https://treegod13.github.io/files/User_centric.pdf)]
+
 * [<font color="#dd0000">MOST23</font>] Xiaoling Zeng, Kezhong Liu, Yuting Ma, and **Mozi Chen**, **DC-HEN: A Deadline-aware and Congestion-relieved Hierarchical Emergency Navigation Algorithm for Ship Indoor Environments**, *The First IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)*, 2023. [[PDF](https://treegod13.github.io/files/DC-HEN-conf.pdf)] [[Slide](https://treegod13.github.io/files/MOST2023_presentation.pdf)]
 
 * [<font color="#dd0000">IOTJ</font>] Kezhong Liu, Dashuai Pei, Shengkai Zhang, Xuming Zeng, Kai Zheng, Chunshen Li and **Mozi Chen**\*, **WiCrew: Gait-based Crew Identification for Cruise Ships Using Commodity WiFi**, *IEEE Internet of Things Journal*, 2022. [[PDF](https://treegod13.github.io/files/WiCrew.pdf)] (\* Corresponding author) 
@@ -67,6 +69,10 @@ Email: chenmz AT whut.edu.cn
 # Patents
 
 * **陈默子**, 张艺瀚, 刘克中, 杨星, 马玉亭, 郑凯, 曾小玲, 裴大帅, **一种基于室内外位置信息的船舶应急疏散方法**, *发明专利*, ZL202111291218.3[[PDF](https://treegod13.github.io/files/patent5.pdf)]
+
+* **陈默子**, 殷博文, 裴大帅, 刘克中, 杨星, 张胜凯, 曾旭明, **一种基于无线信号的船舶值班人员警觉性表征评估方法**, *发明专利*, ZL202310483640.1[[PDF](https://treegod13.github.io/files/patent11.pdf)]
+
+* **陈默子**, 张屹凡, 陈梦达, 刘克中, 郑凯, 曾旭明, 张胜凯, **一种基于物理信道的船舶驾驶员活跃状态监测方法及装置**, *发明专利*, ZL202310492596.0[[PDF](https://treegod13.github.io/files/patent12.pdf)]
 
 * 刘克中, **陈默子**, 杨稳, 马杰, 曾旭明, 王国宇, 马玉亭, 李春伸, **基于CSI的双循环神经网络的船载环境室内定位方法**, *发明专利*, ZL202011269279.5[[PDF](https://treegod13.github.io/files/patent7.pdf)]
 
