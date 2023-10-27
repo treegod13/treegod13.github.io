@@ -20,7 +20,7 @@ Email: chenmz AT whut.edu.cn
 
 # Publications
 
-* [<font color="#dd0000">T-ITS</font>] Yuting Ma, Kezhong Liu, **Mozi Chen**, Yinhao Li, Rui Sun and Rajiv Ranjan, **Rapid Crowd Evacuation for Passenger Ships using LPWAN**, *IEEE NeTransactions on Intelligent Transportation Systemstwork*, 2023. [[PDF](https://treegod13.github.io/files/User_centric.pdf)]
+* [<font color="#dd0000">T-ITS</font>] Yuting Ma, Kezhong Liu, **Mozi Chen**, Yinhao Li, Rui Sun and Rajiv Ranjan, **Rapid Crowd Evacuation for Passenger Ships using LPWAN**, *IEEE Transactions on Intelligent Transportation Systemst*, 2023. [[PDF](https://treegod13.github.io/files/User_centric.pdf)]
 
 * [<font color="#dd0000">MOST23</font>] Xiaoling Zeng, Kezhong Liu, Yuting Ma, and **Mozi Chen**, **DC-HEN: A Deadline-aware and Congestion-relieved Hierarchical Emergency Navigation Algorithm for Ship Indoor Environments**, *The First IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)*, 2023. [[PDF](https://treegod13.github.io/files/DC-HEN-conf.pdf)] [[Slide](https://treegod13.github.io/files/MOST2023_presentation.pdf)]
 
