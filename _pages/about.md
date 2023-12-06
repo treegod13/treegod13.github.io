@@ -9,9 +9,12 @@ redirect_from:
 ---
 
 
-I am currently an Associate Research Professor in the [School of Navigation](http://sn.whut.edu.cn/) at [Wuhan University of Technology (WUT)](https://www.whut.edu.cn/). I recieved my Ph.D. in Traffic Information Engineering & Control from WUT in 2020, where I am advised by [Prof. Kezhong Liu](http://sn.whut.edu.cn/contents/68/8819.html) in the Martime Intelligent Transportation System Group. I was a Research Scholar in the Dept. of Computer Science, The University of Texas at Dallas, under Advisor [Prof. Cong Liu](https://personal.utdallas.edu/~cxl137330/) during Nov. 2017 - Dec. 2018.
-My PhD work has been focusing on wireless sensing techniques and machine learning algorithms for human localization, emergency navigation and activity recognition in mobile environment, i.e., cruise ships.
-My current areas of interest include cyber-physical systems, wireless networks, mobile computing, real-time systems and related areas. 
+I am currently an Associate Research Professor in the [School of Navigation](http://sn.whut.edu.cn/) at [Wuhan University of Technology (WUT)](https://www.whut.edu.cn/). 
+I recieved my Ph.D. in Traffic Information Engineering & Control from WUT in 2020, where I am advised by [Prof. Kezhong Liu](http://sn.whut.edu.cn/contents/68/8819.html) in the Martime Intelligent Transportation System Group. 
+I was a Research Scholar in the Dept. of Computer Science, The University of Texas at Dallas, under Advisor [Prof. Cong Liu](https://personal.utdallas.edu/~cxl137330/) during November 2017 to December 2018.
+From July 2023 to July 2024, I am honored to be a visiting scholar at the School of Computer Science and Engineering, Nanyang Technological University, under the guidance of [Prof. Jun Luo](https://personal.ntu.edu.sg/junluo/).
+My research work has been focusing on intelligent sensing techniques and deep learning algorithms for indoor localization, human navigation and activity recognition in mobile environment, i.e., cruise ships.
+My current areas of interest include wireless networks, mobile computing, machine learning and computer vision.
 
 Email: chenmz AT whut.edu.cn
 
@@ -19,6 +22,8 @@ Email: chenmz AT whut.edu.cn
 ---
 
 # Publications
+
+* [<font color="#dd0000">TIM</font>] Danei Gong, Kezhong Liu, Dashuai Pei，Haoran Zhang, Shengkai Zhang and **Mozi Chen\***, **Wi-Watch: WiFi-based Vigilant-Activity Recognition for Ship Bridge Watchkeeping Officers**, *IEEE Transactions on Instrumentation and Measurement*, 2023. [[PDF](https://treegod13.github.io/files/Wi_Watch.pdf)] (\* Corresponding author) 
 
 * [<font color="#dd0000">T-ITS</font>] Yuting Ma, Kezhong Liu, **Mozi Chen**, Yinhao Li, Rui Sun and Rajiv Ranjan, **Rapid Crowd Evacuation for Passenger Ships using LPWAN**, *IEEE Transactions on Intelligent Transportation Systemst*, 2023. [[PDF](https://treegod13.github.io/files/User_centric.pdf)]
 
@@ -55,6 +60,8 @@ Email: chenmz AT whut.edu.cn
 * [<font color="#dd0000">ICTIS2017</font>] Zhao Hu, Kezhong Liu, **Mozi Chen**, Jie Ma, **A multi-scale indoor localization method for shipboard environment**, *In proceedings of the 4th International Conference on Transportation Information and Safety*, 2017.[[PDF](https://treegod13.github.io/files/ITS_2017.pdf)]
 
 * [<font color="#dd0000">IAIN2015</font>] Kezhong Liu, Yihang Xie, **Mozi Chen**, Jie Ma, **Ship-board pedestrian positioning method by integrating Dead Reckoning and Wireless Sensor Networks**, *In proceedings of the International Association of Institutes of Navigation World Congress*, 2015.[[PDF](https://treegod13.github.io/files/IAIN2015.pdf)]
+
+* 张屹凡, 陈梦达, 王露, 陈聪, 刘克中, **陈默子**. **基于信道状态信息的船舶驾驶台人员检测及活跃度评价方法**, *交通信息与安全*, 2023.[[LINK](https://kns.cnki.net/kcms2/article/abstract?v=o5eMcsLgsI6eDJXW1FDKuNG-HBwNkABEsAQtKRAxcBJnGgq4Z1ulBPkagQ9JWhXAvLONw2CcuQnKZ2vduGeHDerYKe_oUbpLeOtBF3vSHeNmqjYZ3vJDieF_pZB8uPI_jT-RYcdBtFI=&uniplatform=NZKPT&language=CHS)]
 
 * 陈嘉鸣, 刘克中, **陈默子**, 马杰, 曾旭明. **基于信道状态信息的船舶驾驶员值班行为识别方法**, *大连海事大学学报*, 2020.[[LINK](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=DLHS202003009&v=zx5j41gFa1G5%25mmd2BbRSf7TtO3M9IJhtWHgLjxdqmoLA6PhMycbHC4pHpb%25mmd2BQpu6qYBJs)]
 
