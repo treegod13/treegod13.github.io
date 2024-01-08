@@ -23,6 +23,8 @@ Email: chenmz AT whut.edu.cn
 
 # Publications
 
+* [<font color="#dd0000">TVT</font>] Dashuai Pei, Danei Gong, Kezhong Liu, Xuming Zeng, Shengkai Zhang, **Mozi Chen** and Kai Zheng, **mmCTD: Concealed Threat Detection for Cruise Ships via mmWave Radar**, *IEEE Transactions on Vehicular Technology*, 2024. [[PDF](https://treegod13.github.io/files/mmCTD.pdf)]
+
 * [<font color="#dd0000">TIM</font>] Danei Gong, Kezhong Liu, Dashuai Pei，Haoran Zhang, Shengkai Zhang and **Mozi Chen\***, **Wi-Watch: WiFi-based Vigilant-Activity Recognition for Ship Bridge Watchkeeping Officers**, *IEEE Transactions on Instrumentation and Measurement*, 2023. [[PDF](https://treegod13.github.io/files/Wi_Watch.pdf)] (\* Corresponding author) 
 
 * [<font color="#dd0000">T-ITS</font>] Yuting Ma, Kezhong Liu, **Mozi Chen**, Yinhao Li, Rui Sun and Rajiv Ranjan, **Rapid Crowd Evacuation for Passenger Ships using LPWAN**, *IEEE Transactions on Intelligent Transportation Systemst*, 2023. [[PDF](https://treegod13.github.io/files/User_centric.pdf)]
