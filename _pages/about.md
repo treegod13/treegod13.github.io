@@ -23,6 +23,10 @@ Email: chenmz AT whut.edu.cn
 
 # Publications
 
+* [<font color="#dd0000">JMSE</font>] Mengda Chen, Liang Zhang, Yang Liu, Yifan Zhang, Cheng Liu and **Mozi Chen\***，**Ship Bridge OOW Activity Status Detection using Wi-Fi Beamforming Feedback Information**, *Journal of Marine Science and Engineering*, 2024.[[LINK](https://www.mdpi.com/2077-1312/12/6/872)](\* Corresponding author) 
+
+* [<font color="#dd0000">Sensors-J</font>] Kezhong Liu, Guoyu Wang, Cong Chen, Xuming Zeng, Guangmo Tong, and **Mozi Chen\***, **DiFS: WiFi-based Directed Fresnel Signature Localization for Mobile Ship Environment**, *IEEE Sensors Journal*, 2024. [[PDF](https://treegod13.github.io/files/DiFS.pdf)](\* Corresponding author) 
+
 * [<font color="#dd0000">TVT</font>] Dashuai Pei, Danei Gong, Kezhong Liu, Xuming Zeng, Shengkai Zhang, **Mozi Chen** and Kai Zheng, **mmCTD: Concealed Threat Detection for Cruise Ships via mmWave Radar**, *IEEE Transactions on Vehicular Technology*, 2024. [[PDF](https://treegod13.github.io/files/mmCTD.pdf)]
 
 * [<font color="#dd0000">TIM</font>] Danei Gong, Kezhong Liu, Dashuai Pei，Haoran Zhang, Shengkai Zhang and **Mozi Chen\***, **Wi-Watch: WiFi-based Vigilant-Activity Recognition for Ship Bridge Watchkeeping Officers**, *IEEE Transactions on Instrumentation and Measurement*, 2023. [[PDF](https://treegod13.github.io/files/Wi_Watch.pdf)] (\* Corresponding author) 
@@ -63,6 +67,8 @@ Email: chenmz AT whut.edu.cn
 
 * [<font color="#dd0000">IAIN2015</font>] Kezhong Liu, Yihang Xie, **Mozi Chen**, Jie Ma, **Ship-board pedestrian positioning method by integrating Dead Reckoning and Wireless Sensor Networks**, *In proceedings of the International Association of Institutes of Navigation World Congress*, 2015.[[PDF](https://treegod13.github.io/files/IAIN2015.pdf)]
 
+* 李圣令, 刘克中, 陈聪, 王一飞, 王国宇, **陈默子**, 郑凯. **一种复杂环境下UWB测距误差预测方法**, *导航定位学报*, 2024.[[LINK](https://webvpn.whut.edu.cn/https/77726476706e69737468656265737421fbf952d2243e635930068cb8/kcms2/article/abstract?v=lQz6UQjnwp98foRSaHHZJekWwg-4b8bQkylrYSpNYXoClhHIQcCDAROEzFdEdChO28p9QLrFQX6U_R0yOrYuBB6E_Gz_9xKqXZE6hsFg-4pkWfdD8LtkcltU8ktcKDpSUGqKhVLq3L_khcdSq8bgrw==&uniplatform=NZKPT&language=CHS)]
+
 * 张屹凡, 陈梦达, 王露, 陈聪, 刘克中, **陈默子**. **基于信道状态信息的船舶驾驶台人员检测及活跃度评价方法**, *交通信息与安全*, 2023.[[LINK](https://kns.cnki.net/kcms2/article/abstract?v=o5eMcsLgsI6eDJXW1FDKuNG-HBwNkABEsAQtKRAxcBJnGgq4Z1ulBPkagQ9JWhXAvLONw2CcuQnKZ2vduGeHDerYKe_oUbpLeOtBF3vSHeNmqjYZ3vJDieF_pZB8uPI_jT-RYcdBtFI=&uniplatform=NZKPT&language=CHS)]
 
 * 陈嘉鸣, 刘克中, **陈默子**, 马杰, 曾旭明. **基于信道状态信息的船舶驾驶员值班行为识别方法**, *大连海事大学学报*, 2020.[[LINK](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=DLHS202003009&v=zx5j41gFa1G5%25mmd2BbRSf7TtO3M9IJhtWHgLjxdqmoLA6PhMycbHC4pHpb%25mmd2BQpu6qYBJs)]
@@ -83,13 +89,15 @@ Email: chenmz AT whut.edu.cn
 
 * **陈默子**, 张屹凡, 陈梦达, 刘克中, 郑凯, 曾旭明, 张胜凯, **一种基于物理信道的船舶驾驶员活跃状态监测方法及装置**, *发明专利*, ZL202310492596.0[[PDF](https://treegod13.github.io/files/patent12.pdf)]
 
+* **陈默子**, 冯晓艺, 曾小玲, 刘克中, 杨星, 马玉亭, **考虑截止时间和拥塞缓解的分层式客船人员应急疏散方法**, *发明专利*, ZL202311621208.0[[PDF](https://treegod13.github.io/files/patent13.pdf)]
+
 * 刘克中, **陈默子**, 杨稳, 马杰, 曾旭明, 王国宇, 马玉亭, 李春伸, **基于CSI的双循环神经网络的船载环境室内定位方法**, *发明专利*, ZL202011269279.5[[PDF](https://treegod13.github.io/files/patent7.pdf)]
 
 * 刘克中, 裴大帅, **陈默子**, 张胜凯, 曾旭明, 李春伸, 张迅, **一种基于WiFi信号的速度无关步态识别方法**, *发明专利*, ZL202210659791.3[[PDF](https://treegod13.github.io/files/patent9.pdf)]
 
 * 刘克中, 马玉亭, **陈默子**, 曾旭明, 王克浩, 王国宇, 杨稳, 李春伸, **一种动态危险船载环境自适应应急导航方法**, *发明专利*, ZL202110033421.4[[PDF](https://treegod13.github.io/files/patent6.pdf)]
 
-* 刘克中, 曾小玲, **陈默子**, 马玉亭, 郑凯, 曾旭明, 王克浩, **面向三维船舶场景的可扩展性实时快速应急路径规划方法**, *发明专利*, 	ZL202210543376.1[PDF](https://treegod13.github.io/files/patent10.pdf)]
+* 刘克中, 曾小玲, **陈默子**, 马玉亭, 郑凯, 曾旭明, 王克浩, **面向三维船舶场景的可扩展性实时快速应急路径规划方法**, *发明专利*, 	ZL202210543376.1[[PDF](https://treegod13.github.io/files/patent10.pdf)]
 
 * 刘克中, 王国宇, **陈默子**, 曾旭明, 杨稳, 陈梦达, 马玉亭, 李春伸, **一种基于菲涅尔区的船载环境多目标室内定位方法**, *发明专利*, ZL202011557070.9[[PDF](https://treegod13.github.io/files/patent4.pdf)]
 
