@@ -23,7 +23,7 @@ Email: chenmz AT whut.edu.cn
 
 # Publications
 
-* [<font color="#dd0000">Mathematics</font>] Dashuai Pei, Jianhua He, Kezhong Liu, **Mozi Chen** and Shengkai Zhang, **Application of Large Language Models and Assessment of Its Ship Handling Theory Knowledge and Skills for Connected Maritime Autonomous Surface Ships**, *Mathematics*, 2024. [[PDF](https://treegod13.github.io/files/llm-ship.pdf)]
+* [<font color="#dd0000">Mathematics</font>] Dashuai Pei, Jianhua He, Kezhong Liu, **Mozi Chen** and Shengkai Zhang, **Application of Large Language Models and Assessment of Its Ship Handling Theory Knowledge and Skills for Connected Maritime Autonomous Surface Ships**, *Mathematics*, 2024. [[PDF](https://treegod13.github.io/files/llm-ship.pdf)] 
 
 * [<font color="#dd0000">JMSE</font>] Mengda Chen, Liang Zhang, Yang Liu, Yifan Zhang, Cheng Liu and **Mozi Chen\***，**Ship Bridge OOW Activity Status Detection using Wi-Fi Beamforming Feedback Information**, *Journal of Marine Science and Engineering*, 2024.[[LINK](https://www.mdpi.com/2077-1312/12/6/872)] (\* Corresponding author) 
 
