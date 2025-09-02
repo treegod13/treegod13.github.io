@@ -122,6 +122,20 @@ Email: chenmz AT whut.edu.cn
 * 刘克中, **陈默子**, 曾旭明, 王克浩，**船舶舱室环境定位与感知技术**, *科学出版社*, ISBN: 978-7-03-0727305, 2022
 
 ---
+# Grants
+* 船舶航行时空模式库构建与行为辨识，**国家重点研发计划项目子课题**，2022-04至2025-09，主持
+
+* 基于环境语义的船舶舱室无线定位方法研究，**国家自然科学基金青年基金项目**，2025-01至2027-12，批准号：52401423，主持
+
+* 基于Wi-Fi信号的内河客船不安全驾驶行为辨识与预警方法研究，**湖北省自然科学基金**，2022-09至2024-09，批准号：2022CFB851，主持
+
+* 面向船舶动态环境的无线室内定位方法研究，国家自然科学基金面上项目，2020-01至2023-12,参与
+
+* 船舶舱室环境无线感知基础理论研究，湖北省自然科学基金，2021-10至2024-10，参加
+
+* 远洋客船定位设备部署优化仿真设计，企业委托，2023-05至2024-05，主持
+
+---
 
 # Teaching
 
@@ -139,6 +153,8 @@ Email: chenmz AT whut.edu.cn
 ---
 # Honors & Awards
 
+* 船港复杂环境下的鲁棒定位与跟踪关键技术及应用，湖北省科技进步奖，二等奖，2025，序2
+* 复杂动态干扰环境下的鲁棒定位与跟踪关键技术、系统及行业应用，武汉理工大学科技进步奖，一等奖，2024，序2[[PDF](https://treegod13.github.io/files/校级科技奖.pdf)]
 * Excellent Student Scholarship, Wuhan University of Technology, 2019
 * Postgraduate Study Abroad Funding, China Scholarships Council, 2018
 * Excellent Student Scholarship, Wuhan University of Technology, 2017
