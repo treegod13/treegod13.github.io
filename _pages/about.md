@@ -156,7 +156,11 @@ Email: chenmz AT whut.edu.cn
 # Honors & Awards
 
 * **湖北省科技进步奖**，船港复杂环境下的鲁棒定位与跟踪关键技术及应用，二等奖，2025，序2
+
 * **武汉理工大学科技进步奖**，复杂动态干扰环境下的鲁棒定位与跟踪关键技术、系统及行业应用，一等奖，2024，序2[[PDF](https://treegod13.github.io/files/校级科技奖.pdf)]
+
+* **航海科学技术创新（团队）奖**，海事智能监管与协同管控创新团队（武汉理工大学），2025，序9
+
 * Excellent Student Scholarship, Wuhan University of Technology, 2019
 * Postgraduate Study Abroad Funding, China Scholarships Council, 2018
 * Excellent Student Scholarship, Wuhan University of Technology, 2017
