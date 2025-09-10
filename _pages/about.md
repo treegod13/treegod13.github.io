@@ -70,6 +70,8 @@ Email: chenmz AT whut.edu.cn
 
 * [<font color="#dd0000">IAIN2015</font>] Kezhong Liu, Yihang Xie, **Mozi Chen**, Jie Ma, **Ship-board pedestrian positioning method by integrating Dead Reckoning and Wireless Sensor Networks**, *In proceedings of the International Association of Institutes of Navigation World Congress*, 2015.[[PDF](https://treegod13.github.io/files/IAIN2015.pdf)]
 
+* 冯晓艺，马玉亭，陈聪，王一飞，刘克中，**陈默子**，**基于视觉和惯性传感器的大型邮轮室内旅客身份识别方法**，*交通信息与安全*，2024.[[LINK](https://kns.cnki.net/kcms2/article/abstract?v=IMWkopLkOPV1COpLtmxNL6-Kjx-ewL60dLMaKNLmwdJvN5mhMDyqOQQ-PlWvc0CqiKDnyMLlFEdD8AYr7pMoLGSb7hr2VvnMfrHA9lhOhp2o5yhuppNWjGVxV8XeePTyFpCqTsekU3zwY1f7JvBsGQsG86vrblIdnSkSgSWjtJ5Ckgb1DWyb0Q==&uniplatform=NZKPT&language=CHS)]
+
 * 李圣令, 刘克中, 陈聪, 王一飞, 王国宇, **陈默子**, 郑凯. **一种复杂环境下UWB测距误差预测方法**, *导航定位学报*, 2024.[[LINK](https://webvpn.whut.edu.cn/https/77726476706e69737468656265737421fbf952d2243e635930068cb8/kcms2/article/abstract?v=lQz6UQjnwp98foRSaHHZJekWwg-4b8bQkylrYSpNYXoClhHIQcCDAROEzFdEdChO28p9QLrFQX6U_R0yOrYuBB6E_Gz_9xKqXZE6hsFg-4pkWfdD8LtkcltU8ktcKDpSUGqKhVLq3L_khcdSq8bgrw==&uniplatform=NZKPT&language=CHS)]
 
 * 张屹凡, 陈梦达, 王露, 陈聪, 刘克中, **陈默子**. **基于信道状态信息的船舶驾驶台人员检测及活跃度评价方法**, *交通信息与安全*, 2023.[[LINK](https://kns.cnki.net/kcms2/article/abstract?v=o5eMcsLgsI6eDJXW1FDKuNG-HBwNkABEsAQtKRAxcBJnGgq4Z1ulBPkagQ9JWhXAvLONw2CcuQnKZ2vduGeHDerYKe_oUbpLeOtBF3vSHeNmqjYZ3vJDieF_pZB8uPI_jT-RYcdBtFI=&uniplatform=NZKPT&language=CHS)]
