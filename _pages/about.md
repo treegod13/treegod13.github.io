@@ -114,7 +114,8 @@ Email: chenmz AT whut.edu.cn
 
 * 刘克中, 龚大内, 曾旭明, **陈默子**, 郑凯, 陈梦达, 李春伸, 王国宇, **一种基于双毫米波雷达的船载环境入侵检测方法及系统**, *发明专利*, ZL202210447260.8[[PDF](https://treegod13.github.io/files/patent8.pdf)]
 
-* 郑凯，马子卿，刘克中，陈岩硕，崔宇辰，**陈默子**，曾旭明，**GNSS的多维粗差探测方法、装置、电子设备及存储介质**, *发明专利*, ZL202210409701.5[[PDF](https://treegod13.github.io/files/patent14.pdf)]
+* 郑凯，马子卿，刘克中，陈岩硕，崔宇辰，**陈默子**, 曾旭明，**GNSS的多维粗差探测方法、装置、电子设备及存储介质**, *发明专利*, ZL202210409701.5[[PDF](https://treegod13.github.io/files/patent14.pdf)]
+
 ---
 
 <!--# Patents Applied in China-->
