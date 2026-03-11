@@ -22,6 +22,10 @@ Email: chenmz AT whut.edu.cn
 ---
 
 # Publications
+
+
+* [<font color="#dd0000">T-ITS</font>] [12]	Kezhong Liu, Yiwen Zhou, **Mozi Chen**, Jianhua He, Jingao Xu, Zheng Yang, Chris Xiao Xuan Lu, Shengkai Zhang, **MmWave Radar Perception Learning using Pervasive Visual-Inertial**, *IEEE Transactions on Intelligent Transportation System*, 2026. [[PDF](https://treegod13.github.io/files/TITS-mmwave.pdf)] 
+
 * [<font color="#dd0000">T-ITS</font>] Dashuai Pei, Yiwen Wu, Jianhua He, Kezhong Liu, **Mozi Chen**, Xuedou Xiao, Shengkai Zhang and Jiawei Zheng, **Methodology and Benchmark for Automated Driving Theory Test of Large Language Models**, *IEEE Transactions on Intelligent Transportation System*, 2025. [[PDF](https://treegod13.github.io/files/TITS-LLM.pdf)] 
 
 * [<font color="#dd0000">Mathematics</font>] Dashuai Pei, Jianhua He, Kezhong Liu, **Mozi Chen** and Shengkai Zhang, **Application of Large Language Models and Assessment of Its Ship Handling Theory Knowledge and Skills for Connected Maritime Autonomous Surface Ships**, *Mathematics*, 2024. [[PDF](https://treegod13.github.io/files/llm-ship.pdf)] 
