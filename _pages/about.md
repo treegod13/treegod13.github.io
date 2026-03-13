@@ -24,8 +24,8 @@ Email: chenmz AT whut.edu.cn
 # Publications
 
 
-* [<font color="#dd0000">Information</font>] Yiling Ren, **Mozi Chen\***, Junjie Weng, Shengkai Zhang, Xuedou Xiao and Kezhong Liu, **Deploying Efficient LLM Agents on Maritime Autonomous
-Surface Ships: Fine-Tuning, RAG, and Function Calling in a Mid-Size Model**， *Information*, 2026. (\* Corresponding author) 
+* [<font color="#dd0000">Info</font>] Yiling Ren, **Mozi Chen\***, Junjie Weng, Shengkai Zhang, Xuedou Xiao and Kezhong Liu, **Deploying Efficient LLM Agents on Maritime Autonomous
+Surface Ships: Fine-Tuning, RAG, and Function Calling in a Mid-Size Model**, *Information*, 2026. (\* Corresponding author) [[PDF](https://treegod13.github.io/files/information-17.pdf)] 
 
 * [<font color="#dd0000">T-ITS</font>] Kezhong Liu, Yiwen Zhou, **Mozi Chen**, Jianhua He, Jingao Xu, Zheng Yang, Chris Xiao Xuan Lu, Shengkai Zhang, **MmWave Radar Perception Learning using Pervasive Visual-Inertial**, *IEEE Transactions on Intelligent Transportation System*, 2026. [[PDF](https://treegod13.github.io/files/TITS-mmwave.pdf)] 
 
@@ -164,13 +164,13 @@ Surface Ships: Fine-Tuning, RAG, and Function Calling in a Mid-Size Model**， *
 ---
 # Honors & Awards
 
-* **中国航海学会科技进步奖**，大型船舶人员安全管理与落水救援技术及应用，**一等奖**，2025，**序1**，证书编号：HG 25-J-01-38[[PDF](https://treegod13.github.io/files/中国航海学会一等奖-人员证书.pdf)]
+* **中国航海学会科技进步奖**，大型船舶人员安全管理与落水救援技术及应用，**一等奖**，2025，**序1**，获奖编号：HG 25-J-01-38[[PDF](https://treegod13.github.io/files/中国航海学会一等奖-人员证书.pdf)]
 
-* **湖北省科学技术进步奖**，船港复杂环境下的鲁棒定位与跟踪关键技术及应用，**二等奖**，2025，**序2**，证书编号：2025J-205-2-078-040-R02[[PDF](https://treegod13.github.io/files/湖北省科技进步奖-陈默子.pdf)]
+* **湖北省科学技术进步奖**，船港复杂环境下的鲁棒定位与跟踪关键技术及应用，**二等奖**，2025，**序2**，获奖编号：2025J-205-2-078-040[[PDF](https://treegod13.github.io/files/湖北省科技进步奖-陈默子.pdf)]
 
-* **武汉理工大学科技进步奖**，复杂动态干扰环境下的鲁棒定位与跟踪关键技术、系统及行业应用，**一等奖**，2024，**序2**，证书编号：2024-J-1-09[[PDF](https://treegod13.github.io/files/校级科技奖.pdf)]
+* **武汉理工大学科技进步奖**，复杂动态干扰环境下的鲁棒定位与跟踪关键技术、系统及行业应用，**一等奖**，2024，**序2**，获奖编号：2024-J-1-09[[PDF](https://treegod13.github.io/files/校级科技奖.pdf)]
 
-* **中国航海学会航海科学技术创新（团队）奖**，海事智能监管与协同管控创新团队（武汉理工大学），2025，序9，证书编号：HG25-C-T-09[[PDF](https://treegod13.github.io/files/团队奖-2025.pdf)]
+* **中国航海学会航海科学技术创新（团队）奖**，海事智能监管与协同管控创新团队（武汉理工大学），2025，序9，获奖编号：HG25-C-T-09[[PDF](https://treegod13.github.io/files/团队奖-2025.pdf)]
 
 * Excellent Student Scholarship, Wuhan University of Technology, 2019
 * Postgraduate Study Abroad Funding, China Scholarships Council, 2018
