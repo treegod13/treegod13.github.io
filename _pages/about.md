@@ -130,11 +130,11 @@ Surface Ships: Fine-Tuning, RAG, and Function Calling in a Mid-Size Model**, *In
 
 # Books
 
-* [<font color="#dd0000">教材</font>] 刘克中，**陈默子**，张胜凯，肖雪豆，**室内定位技术**, *武汉大学出版社*, 2026[[PDF](https://treegod13.github.io/files/室内定位技术-202604-陈默子.PDF)]
+* [<font color="#dd0000">教材</font>] 刘克中，**陈默子**，张胜凯，肖雪豆，**室内定位技术**, *武汉大学出版社*, 2026[[PDF](https://treegod13.github.io/files/室内定位技术-202604-陈默子.pdf)]
 
-* [<font color="#dd0000">专著</font>] 刘克中, **陈默子**, 曾旭明, 王克浩，**船舶舱室环境定位与感知技术**, *科学出版社*, ISBN: 978-7-03-0727305, 2022[[封面](https://treegod13.github.io/files/专著1.JPG)]
+* [<font color="#dd0000">专著</font>] 刘克中, **陈默子**, 曾旭明, 王克浩，**船舶舱室环境定位与感知技术**, *科学出版社*, ISBN: 978-7-03-0727305, 2022[[封面](https://treegod13.github.io/files/专著1.jpg)]
 
-* [<font color="#dd0000">专著</font>] 刘克中，张蕊，刘文，**陈默子**，**船舶轨迹数据挖掘**, *武汉理工大学出版社*, ISBN: 978-7-5629-7713-1, 2025[[封面](https://treegod13.github.io/files/专著2.JPG)]
+* [<font color="#dd0000">专著</font>] 刘克中，张蕊，刘文，**陈默子**，**船舶轨迹数据挖掘**, *武汉理工大学出版社*, ISBN: 978-7-5629-7713-1, 2025[[封面](https://treegod13.github.io/files/专著2.jpg)]
 
 
 ---
@@ -157,7 +157,7 @@ Surface Ships: Fine-Tuning, RAG, and Function Calling in a Mid-Size Model**, *In
 
 * 陈默子，**无线室内定位技术**, *本科生课程* [[线上资料](https://mozi-chen.gitbook.io/indoor-localization/)]
 
-* 陈默子，**无线定位与智能感知**，*研究生课程*[[PDF](https://treegod13.github.io/files/室内定位技术-202604-陈默子.PDF)]
+* 陈默子，**无线定位与智能感知**，*研究生课程*[[PDF](https://treegod13.github.io/files/室内定位技术-202604-陈默子.pdf)]
 
 * 陈默子，**研究方法与学术论文写作**，*研究生课程*
 
@@ -170,7 +170,7 @@ Surface Ships: Fine-Tuning, RAG, and Function Calling in a Mid-Size Model**, *In
 
 * **武汉理工大学科技进步奖**，复杂动态干扰环境下的鲁棒定位与跟踪关键技术、系统及行业应用，**一等奖**，2024，**序2**，获奖编号：2024-J-1-09[[PDF](https://treegod13.github.io/files/校级科技奖.pdf)]
 
-* **中国航海学会航海科学技术创新（团队）奖**，海事智能监管与协同管控创新团队（武汉理工大学），2025，序9，获奖编号：HG25-C-T-09[[PDF](https://treegod13.github.io/files/团队奖-2025.pdf)]
+* **中国航海学会航海科学技术创新（团队）奖**，海事智能监管与协同管控创新团队（武汉理工大学），2025，序9，获奖编号：HG25-C-T-09[[PDF](https://treegod13.github.io/files/团队奖-2025.PDF)]
 
 
 ---
