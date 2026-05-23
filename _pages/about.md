@@ -130,7 +130,12 @@ Surface Ships: Fine-Tuning, RAG, and Function Calling in a Mid-Size Model**, *In
 
 # Books
 
-* 刘克中, **陈默子**, 曾旭明, 王克浩，**船舶舱室环境定位与感知技术**, *科学出版社*, ISBN: 978-7-03-0727305, 2022
+* [<font color="#dd0000">教材</font>] 刘克中，**陈默子**，张胜凯，肖雪豆，**室内定位技术**, *武汉大学出版社*, 2026[[PDF](https://treegod13.github.io/files/室内定位技术-202604-陈默子.PDF)]
+
+* [<font color="#dd0000">专著</font>] 刘克中, **陈默子**, 曾旭明, 王克浩，**船舶舱室环境定位与感知技术**, *科学出版社*, ISBN: 978-7-03-0727305, 2022[[封面](https://treegod13.github.io/files/专著1.JPG)]
+
+* [<font color="#dd0000">专著</font>] 刘克中，张蕊，刘文，**陈默子**，**船舶轨迹数据挖掘**, *武汉理工大学出版社*, ISBN: 978-7-5629-7713-1, 2025[[封面](https://treegod13.github.io/files/专著2.JPG)]
+
 
 ---
 # Grants
@@ -150,19 +155,14 @@ Surface Ships: Fine-Tuning, RAG, and Function Calling in a Mid-Size Model**, *In
 
 # Teaching
 
-* 陈默子，**无线室内定位技术**, *本科生课程* [[课程资料](https://mozi-chen.gitbook.io/indoor-localization/)]
+* 陈默子，**无线室内定位技术**, *本科生课程* [[线上资料](https://mozi-chen.gitbook.io/indoor-localization/)]
+
+* 陈默子，**无线定位与智能感知**，*研究生课程*[[PDF](https://treegod13.github.io/files/室内定位技术-202604-陈默子.PDF)]
 
 * 陈默子，**研究方法与学术论文写作**，*研究生课程*
 
 ---
-# Education
-
-* Ph.D in Traffic Information Engineering & Control, Wuhan University of Technology, 2020
-* M.S. in Traffic Information Engineering & Control, Wuhan University of Technology, 2016
-* B.S. in Electric Information Engineering, Hubei University of Technology, 2013
-
----
-# Honors & Awards
+# Awards
 
 * **中国航海学会科技进步奖**，大型船舶人员安全管理与落水救援技术及应用，**一等奖**，2025，**序1**，获奖编号：HG 25-J-01-38[[PDF](https://treegod13.github.io/files/中国航海学会一等奖-人员证书.pdf)]
 
@@ -172,6 +172,13 @@ Surface Ships: Fine-Tuning, RAG, and Function Calling in a Mid-Size Model**, *In
 
 * **中国航海学会航海科学技术创新（团队）奖**，海事智能监管与协同管控创新团队（武汉理工大学），2025，序9，获奖编号：HG25-C-T-09[[PDF](https://treegod13.github.io/files/团队奖-2025.pdf)]
 
+
+---
+# Education
+
+* Ph.D in Traffic Information Engineering & Control, Wuhan University of Technology, 2020
+* M.S. in Traffic Information Engineering & Control, Wuhan University of Technology, 2016
+* B.S. in Electric Information Engineering, Hubei University of Technology, 2013
 * Excellent Student Scholarship, Wuhan University of Technology, 2019
 * Postgraduate Study Abroad Funding, China Scholarships Council, 2018
 * Excellent Student Scholarship, Wuhan University of Technology, 2017
