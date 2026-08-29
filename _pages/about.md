@@ -23,7 +23,7 @@ Email: chenmz AT whut.edu.cn
 
 # Publications
 
-* [<font color="#dd0000">TMC</font>] Mengchuang Hu, **Mozi Chen\***, Yiling Ren, Junjie Weng, Xuedou Xiao, Shengkai Zhang and Kezhong Liu, SIREN: Self-supervised 4D Implicit Representation for Enhanced Radar- and Vision-based Activity Recognition for Ship Watch-Keeping Officers, *IEEE Transactions on Mobile Computing*, 2026.[[PDF](https://treegod13.github.io/files/TMC_SIREN.pdf)] (\* Corresponding author) 
+* [<font color="#dd0000">TMC</font>] Mengchuang Hu, **Mozi Chen\***, Yiling Ren, Junjie Weng, Xuedou Xiao, Shengkai Zhang and Kezhong Liu, **SIREN: Self-supervised 4D Implicit Representation for Enhanced Radar- and Vision-based Activity Recognition for Ship Watch-Keeping Officers**, *IEEE Transactions on Mobile Computing*, 2026.[[PDF](https://treegod13.github.io/files/TMC_SIREN.pdf)] (\* Corresponding author) 
 
 * [<font color="#dd0000">MOST26</font>] Junjie Weng, **Mozi Chen\***, Yiling Ren, Yang Liu, Changzhen Li and Kezhong Liu, **An LLM-based Waterway Scheduling Agent Integrated with Semantic Perception and Evolutionary Optimization**, *The 4th IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)*, 2026. [[PDF](https://treegod13.github.io/files/MOST2026-LLM.pdf)] (\* Corresponding author) 
 
