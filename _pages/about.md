@@ -23,11 +23,11 @@ Email: chenmz AT whut.edu.cn
 
 # Publications
 
-* [<font color="#dd0000">TMC</font>] Mengchuang Hu, **Mozi Chen\***, Yiling Ren, Junjie Weng, Xuedou Xiao, Shengkai Zhang and Kezhong Liu, SIREN: Self-supervised 4D Implicit Representation for Enhanced Radar- and Vision-based Activity Recognition for Ship Watch-Keeping Officers, *IEEE Transactions on Mobile Computing*, 2026.[[PDF](https://treegod13.github.io/files/TMC_SIREN.pdf)](\* Corresponding author) 
+* [<font color="#dd0000">TMC</font>] Mengchuang Hu, **Mozi Chen\***, Yiling Ren, Junjie Weng, Xuedou Xiao, Shengkai Zhang and Kezhong Liu, SIREN: Self-supervised 4D Implicit Representation for Enhanced Radar- and Vision-based Activity Recognition for Ship Watch-Keeping Officers, *IEEE Transactions on Mobile Computing*, 2026.[[PDF](https://treegod13.github.io/files/TMC_SIREN.pdf)] (\* Corresponding author) 
 
-* [<font color="#dd0000">MOST26</font>] Junjie Weng, **Mozi Chen\***, Yiling Ren, Yang Liu, Changzhen Li and Kezhong Liu, **An LLM-based Waterway Scheduling Agent Integrated with Semantic Perception and Evolutionary Optimization**, *The 4th IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)*, 2026. [[PDF](https://treegod13.github.io/files/MOST2026-LLM.pdf)](\* Corresponding author) 
+* [<font color="#dd0000">MOST26</font>] Junjie Weng, **Mozi Chen\***, Yiling Ren, Yang Liu, Changzhen Li and Kezhong Liu, **An LLM-based Waterway Scheduling Agent Integrated with Semantic Perception and Evolutionary Optimization**, *The 4th IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)*, 2026. [[PDF](https://treegod13.github.io/files/MOST2026-LLM.pdf)] (\* Corresponding author) 
 
-* [<font color="#dd0000">MOST26</font>] Gaofeng Rao, **Mozi Chen\***, Mengchuang Hu, Shengkai Zhang and Kezhong Liu, **SCARF-SLAM: Spatially Confidence-aware Aggregation for Federated Implicit Neural SLAM**, *The 4th IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)*, 2026. [[PDF](https://treegod13.github.io/files/MOST2026-SLAM.pdf)](\* Corresponding author) 
+* [<font color="#dd0000">MOST26</font>] Gaofeng Rao, **Mozi Chen\***, Mengchuang Hu, Shengkai Zhang and Kezhong Liu, **SCARF-SLAM: Spatially Confidence-aware Aggregation for Federated Implicit Neural SLAM**, *The 4th IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)*, 2026. [[PDF](https://treegod13.github.io/files/MOST2026-SLAM.pdf)] (\* Corresponding author) 
 
 * [<font color="#dd0000">Info</font>] Yiling Ren, **Mozi Chen\***, Junjie Weng, Shengkai Zhang, Xuedou Xiao and Kezhong Liu, **Deploying Efficient LLM Agents on Maritime Autonomous
 Surface Ships: Fine-Tuning, RAG, and Function Calling in a Mid-Size Model**, *Information*, 2026. (\* Corresponding author) [[PDF](https://treegod13.github.io/files/information-17.pdf)] 
@@ -144,7 +144,7 @@ Surface Ships: Fine-Tuning, RAG, and Function Calling in a Mid-Size Model**, *In
 
 ---
 # Grants
-* 信息不完备条件下船舶人员疏散场景认知与可靠决策方法研究, **国家自然科学基金青年面上项目**，2027-01至2030-12，批准号：52671466，主持
+* 信息不完备条件下船舶人员疏散场景认知与可靠决策方法研究, **国家自然科学基金面上项目**，2027-01至2030-12，批准号：52671466，主持
 
 * 船舶航行时空模式库构建与行为辨识，**国家重点研发计划项目子课题**，2022-04至2025-09，主持
 
