@@ -29,6 +29,8 @@ Email: chenmz AT whut.edu.cn
 
 * [<font color="#dd0000">MOST26</font>] Gaofeng Rao, **Mozi Chen\***, Mengchuang Hu, Shengkai Zhang and Kezhong Liu, **SCARF-SLAM: Spatially Confidence-aware Aggregation for Federated Implicit Neural SLAM**, *The 4th IEEE International Conference on Mobility: Operations, Services, and Technologies (MOST)*, 2026. [[PDF](https://treegod13.github.io/files/MOST2026-SLAM.pdf)] (\* Corresponding author) 
 
+* [<font color="#dd0000">SENSORS</font>] Kezhong Liu, Cong Fan, Shengkai Zhang, Chunshen Li, Xuedou Xiao, Xuming Zeng and **Mozi Chen\***, Monocular-Based Vehicle Displacement Detection in Low-Light Dynamic Environments, *IEEE Sensors Letters*, 2026. [[PDF](https://treegod13.github.io/files/sensors-2026.pdf)] (\* Corresponding author) 
+
 * [<font color="#dd0000">Info</font>] Yiling Ren, **Mozi Chen\***, Junjie Weng, Shengkai Zhang, Xuedou Xiao and Kezhong Liu, **Deploying Efficient LLM Agents on Maritime Autonomous
 Surface Ships: Fine-Tuning, RAG, and Function Calling in a Mid-Size Model**, *Information*, 2026. (\* Corresponding author) [[PDF](https://treegod13.github.io/files/information-17.pdf)] 
 
